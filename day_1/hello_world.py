@@ -20,7 +20,6 @@ box = " "
 print(type(box),box)
 box =0 + 1987182374.9090238909023j
 print(type(box),box)
-
 box =[1,3,2,4]
 print(type(box),box)
 
